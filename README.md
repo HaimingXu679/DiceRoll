@@ -1,2 +1,2 @@
 # DiceRoll
-Rolling Dice
+Rolling two dice
